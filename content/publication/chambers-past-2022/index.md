@@ -13,7 +13,7 @@ tags:
 categories: []
 date: '2022-01-01'
 lastmod: 2022-11-24T17:20:14Z
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -51,4 +51,9 @@ doi: 10.1038/s41562-021-01193-7
 links:
 - name: URL
   url: https://www.nature.com/articles/s41562-021-01193-7
+
+image:
+  caption: 'Key milestones in the evolution of Registered Reports'
+  focal_point: "Smart"
+  preview_only: false
 ---
