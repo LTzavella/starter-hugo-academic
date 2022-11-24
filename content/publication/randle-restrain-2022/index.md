@@ -57,4 +57,8 @@ doi: 10.1098/rsos.220923
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/10.1098/rsos.220923
+- name: Data & analysis scripts
+  url: https://osf.io/wsqyn/
+- name: Preregistered protocol
+  url: https://osf.io/m85sr/
 ---

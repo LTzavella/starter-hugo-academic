@@ -4,7 +4,11 @@
 title: The affective priming paradigm as an indirect measure of food attitudes and
   related choice behaviour
 subtitle: ''
-summary: ''
+summary: 'In this Registered Report, we assessed the utility of the affective priming
+  paradigm (APP) as an indirect measure of food attitudes and related choice behaviour
+  in two separate cohorts. This study demonstrates the robustness
+  of the APP as an indirect measure of food liking and raises questions about its
+  applied value for research of eating behaviours.'
 authors:
 - Loukia Tzavella
 - Leah Maizey
@@ -14,15 +18,16 @@ tags: []
 categories: []
 date: '2020-12-01'
 lastmod: 2022-11-24T17:20:14Z
-featured: false
+featured: true
 draft: false
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'center'
   preview_only: false
 
 # Projects (optional).
@@ -59,4 +64,10 @@ doi: 10.3758/s13423-020-01764-1
 links:
 - name: URL
   url: http://link.springer.com/10.3758/s13423-020-01764-1
+- name: Data & analysis scripts
+  url: https://osf.io/73xfr
+- name: Research materials
+  url: https://osf.io/sjcx7
+- name: Stage 1 RR protocol
+  url: https://osf.io/y2tus
 ---

@@ -70,4 +70,8 @@ doi: 10.1098/rsos.210666
 links:
 - name: URL
   url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.210666
+- name: Data & analysis scripts
+  url: https://osf.io/hz2nb/
+- name: Preregistered protocol
+  url: https://osf.io/wav8p 
 ---

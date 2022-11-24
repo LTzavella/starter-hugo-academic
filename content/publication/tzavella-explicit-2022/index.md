@@ -61,4 +61,12 @@ doi: 10.31234/osf.io/jkb3v
 links:
 - name: URL
   url: https://osf.io/jkb3v
+- name: Data & analysis scripts
+  url: https://osf.io/6bsnv/
+- name: Research materials
+  url: https://osf.io/u36nd/
+- name: Preregistered protocol for Experiment 1
+  url: https://osf.io/c6z53
+- name: Preregistered protocol for Experiment 2
+  url: https://osf.io/p6yk9
 ---

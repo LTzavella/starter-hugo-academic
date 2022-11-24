@@ -3,13 +3,16 @@
 
 title: The past, present and future of Registered Reports
 subtitle: ''
-summary: ''
+summary: 'In this review we reflect
+  on the history, progress and future prospects of the Registered Reports initiative
+  and offer practical guidance for authors, reviewers and editors.'
 authors:
 - Christopher D. Chambers
 - Loukia Tzavella
 tags:
-- Culture
+- Metascience
 - Publishing
+- Reproducibility
 categories: []
 date: '2022-01-01'
 lastmod: 2022-11-24T17:20:14Z
@@ -19,10 +22,6 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -54,6 +53,6 @@ links:
 
 image:
   caption: 'Key milestones in the evolution of Registered Reports'
-  focal_point: "Smart"
+  focal_point: 'center'
   preview_only: false
 ---
