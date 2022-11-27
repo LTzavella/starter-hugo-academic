@@ -50,6 +50,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=1VGs9C0AAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1463-9396 
   - icon: osf
     icon_pack: ai
     link: https://osf.io/pqb7s/ 
