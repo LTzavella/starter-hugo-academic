@@ -10,7 +10,7 @@ summary: 'In this Registered Report, we assessed the utility of the affective pr
   of the APP as an indirect measure of food liking and raises questions about its
   applied value for research of eating behaviours.'
 authors:
-- Loukia Tzavella
+- admin
 - Leah Maizey
 - Andrew D. Lawrence
 - Christopher D. Chambers

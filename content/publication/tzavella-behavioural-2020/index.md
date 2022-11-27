@@ -6,7 +6,7 @@ title: Behavioural measures and training interventions for food-related cognitio
 subtitle: ''
 summary: ''
 authors:
-- Loukia Tzavella
+- admin
 tags: []
 categories: []
 date: '2020-01-01'

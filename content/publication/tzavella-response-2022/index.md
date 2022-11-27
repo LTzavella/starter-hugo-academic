@@ -5,7 +5,7 @@ title: Response inhibition training and measures of explicit and implicit food v
 subtitle: ''
 summary: ''
 authors:
-- Loukia Tzavella
+- admin
 - Christopher D Chambers
 tags: []
 categories: []

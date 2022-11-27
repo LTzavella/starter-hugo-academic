@@ -8,7 +8,7 @@ summary: 'In this review we reflect
   and offer practical guidance for authors, reviewers and editors.'
 authors:
 - Christopher D. Chambers
-- Loukia Tzavella
+- admin
 tags:
 - Metascience
 - Publishing

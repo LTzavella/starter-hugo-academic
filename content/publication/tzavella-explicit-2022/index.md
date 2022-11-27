@@ -6,7 +6,7 @@ title: Explicit and implicit devaluation effects of food-specific response inhib
 subtitle: ''
 summary: ''
 authors:
-- Loukia Tzavella
+- admin
 - Christopher D Chambers
 tags: []
 categories: []

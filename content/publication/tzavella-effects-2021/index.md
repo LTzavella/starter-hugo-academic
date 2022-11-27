@@ -6,7 +6,7 @@ title: Effects of go/no-go training on food-related action tendencies, liking an
 subtitle: ''
 summary: ''
 authors:
-- Loukia Tzavella
+- admin
 - Natalia S. Lawrence
 - Katherine S. Button
 - Elizabeth A. Hart

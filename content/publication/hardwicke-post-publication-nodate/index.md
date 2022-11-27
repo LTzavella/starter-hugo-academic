@@ -9,7 +9,7 @@ authors:
 - Tom E. Hardwicke
 - Robert T. Thibault
 - Jessica E. Kosie
-- Loukia Tzavella
+- admin
 - Theiss Bendixen
 - Sarah A. Handcock
 - Vivian E. Köneke

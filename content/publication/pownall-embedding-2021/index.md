@@ -20,19 +20,16 @@ authors:
 - David Moreau
 - Ruth Horry
 - John Shaw
-- Loukia Tzavella
+- admin
 - Ronan McGarrigle
 - Catherine Talbot
 - Sam Parsons
 tags:
-- College Students
 - Lesson Plans
 - Nontraditional Education
 - Open Data
 - Open Science
-- School Learning
 - Sciences
-- Teachers
 - Teaching
 - Teaching Methods
 - Training

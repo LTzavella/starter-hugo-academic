@@ -8,18 +8,16 @@ summary: ''
 authors:
 - Charlotte R. Pennington
 - Andrew J. Jones
-- Loukia Tzavella
+- admin
 - Christopher D. Chambers
 - Katherine S. Button
 tags:
 - Addiction
 - Crowdsourcing
 - Experimenters
-- Global Health
 - Intervention
 - Open Data
 - Open Science
-- Sciences
 - Teams
 categories: []
 date: '2022-01-01'
