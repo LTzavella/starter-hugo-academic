@@ -1,15 +1,15 @@
 ---
-title: Example Project
+title: Response inhibition training
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Response inhibition
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3664108">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3664108">Pixabay</a>
   focal_point: Smart
 
 links:
