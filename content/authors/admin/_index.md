@@ -18,13 +18,15 @@ organizations:
     url: https://www.cardiff.ac.uk/psychology 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include experimental psychology, cognitive neuroscience, implicit cognition, reproducibility and metascience.
 
 # Interests to show in About widget
 interests:
   - Reproducibility & Metascience
   - Behaviour change for eating behaviours
   - Implicit cognition measures 
+  - Experimental Psychology
+  - Cognitive Neuroscience
 
 # Education to show in About widget
 education:

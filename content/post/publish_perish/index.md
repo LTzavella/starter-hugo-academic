@@ -1,9 +1,9 @@
 ---
-title: Open Science practices and publish or perish dilemmas
+title: New post 
 subtitle: 
 
 # Summary for listings and search engines
-summary: Post for the 'Is it publish or perish?' collection for Nature Human Behaviour. We discuss challenges early career researchers may face with regards to the implementation of open science practices. 
+summary: 
 
 # Link this post with a project
 projects: []
